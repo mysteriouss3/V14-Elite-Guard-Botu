@@ -41,6 +41,31 @@ Bu, eşi benzeri olmayan, gecikmesiz ve hatasız koruma sağlayan bir Discord Gu
   ![Role Ekle](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/7ded2a07-d9a0-47ab-b03d-3e4cfceca12e)
 </details>
 
+
+## WhiteList Ayarları (GuardPanel)
+<details>
+<summary>Beyaz Listeyi Göster</summary>
+- Tek bir komut olan "Guard Menü" ile her türlü ayarı yapabilirsiniz aynı şekilde WhiteListemizide Görüntüleyebiliyoruz.
+
+![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/21aecfe0-afff-4322-ba9f-ad9394075935)
+
+![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/8e197b89-3668-40d9-b236-db1257a10f4f)
+
+![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/4767726c-182e-46e1-81e8-1b695c2bf794)
+
+ - Kullanıcı veya role izin verilmiş modüllere bu şekilde bakabiliyorsunuz ve kaldırabiliyorsunuz.
+</details>
+
+## Gelişmiş Log Sistemi (LogKanalı)
+<details>
+  
+  ![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/8897b15f-f8ba-4a8a-97a7-c026b2fb8159)
+  
+  ![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/5e5bab38-b428-4a26-bb50-2b0713fb59eb)
+
+  ![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/c20c92ae-8add-46bb-9e61-c9200b606eed)
+</details>
+
 Toplam 3 farklı Guard Botu:
 1. Ceza Botu
 2. Log ve Komutlara Cevap Veren Bot
