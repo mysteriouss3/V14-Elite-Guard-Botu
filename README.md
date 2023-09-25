@@ -1,4 +1,4 @@
-# V14 Elite Guard Botu (En İyi Guard Botu)
+# V14 Elite Guard Botu (Ultra Elite Guard Botu) - Limited Edition
 
 Bu Discord Guard Botu, eşi benzeri olmayan gecikmesiz ve hatasız koruma sağlayan bir bot olarak tasarlanmıştır. Limited Edition olarak Satılacaktır (Sadece 5 Sunucuya) 
 
