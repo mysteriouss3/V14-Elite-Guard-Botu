@@ -51,7 +51,19 @@ Bu Discord Guard Botu, eşi benzeri olmayan gecikmesiz ve hatasız koruma sağla
 
   ![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/d7b454a2-6d7e-44b9-a189-f1487704b23d)
 
+  
+
   ![Role Ekle](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/7ded2a07-d9a0-47ab-b03d-3e4cfceca12e)
+
+  ![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/0a80c377-4427-4e8d-8bed-ad6f2d517ad2)
+
+  ![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/d61d5327-7af2-4a75-9adc-d48e927c20da)
+
+  ![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/acaed859-5178-4be0-844c-a847b26a82a3)
+
+  ![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/7d1ecf06-b3cc-4ea7-82f0-80c43a731792)
+
+
 </details>
 
 ## WhiteList Ayarları (Guard Panel)
