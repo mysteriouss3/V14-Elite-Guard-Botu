@@ -54,10 +54,10 @@ Eşi Benzeri Olmayan 1 Saniyede Ceza Veren Hiç Bir Gecikmesi Olmayan Kodlaması
 ![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/7ded2a07-d9a0-47ab-b03d-3e4cfceca12e)
 
 </details>
-<h1>Guard Botumuz 3 Adettir Her Module Hem Limit Hem Limit Aşıldıktan Sonra Ne Yapılacagı Size Menüler İle Sorulmaktadir Tamamen Modüler Bir Alt Yapiya Sahiptir.</h1>
 
 
-##Toplam 3 Adet Guard Botumuz Vardir.
+
+Toplam 3 Adet Guard Botumuz Vardir.
 1- Ceza Botu
 2- Log Ve Komutlara Cevap Veren Bot
 3- Backup Ve Rol Dagıtma Botudur.
@@ -67,8 +67,8 @@ Guard Modül Listesi ;
 
 ![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/03f214f6-c815-4132-9326-c4b4cdf5c218)
 
-##Default Ayarlarıda Yapabilirsiniz Yani WhiteListe Ekli Olmayan Ama Yetkisi Olan Kullanıcılara Ne Yapilacagını Size Menü Olarak Sormaktadir. Ve Her Modül İçin Ayarlanabilir Bir Yapiya Sahiptir
-##Mesela Yetkisi Var Ama Guarda Ekli Değil ChannelDelete Yaparsa Ne Yapılsın? Ban,Kick,YTÇEK Gibi cezalar Mevcuttur Tabi Herşeyi Menüden Ayarlıyoruz Botun Ayar Dosyası Mevcut Değildir Sadece Token Girip Çalıştırıyosunuz Olay bitiyor.
+Default Ayarlarıda Yapabilirsiniz Yani WhiteListe Ekli Olmayan Ama Yetkisi Olan Kullanıcılara Ne Yapilacagını Size Menü Olarak Sormaktadir. Ve Her Modül İçin Ayarlanabilir Bir Yapiya Sahiptir
+Mesela Yetkisi Var Ama Guarda Ekli Değil ChannelDelete Yaparsa Ne Yapılsın? Ban,Kick,YTÇEK Gibi cezalar Mevcuttur Tabi Herşeyi Menüden Ayarlıyoruz Botun Ayar Dosyası Mevcut Değildir Sadece Token Girip Çalıştırıyosunuz Olay bitiyor.
 
-
+<h1>Guard Botumuz 3 Adettir Her Module Hem Limit Hem Limit Aşıldıktan Sonra Ne Yapılacagı Size Menüler İle Sorulmaktadir Tamamen Modüler Bir Alt Yapiya Sahiptir.</h1>
 
