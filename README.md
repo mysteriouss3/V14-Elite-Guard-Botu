@@ -76,4 +76,7 @@ Toplam 3 farklı Guard Botu:
 ## Guard Modülleri
 ![Modül Listesi](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/03f214f6-c815-4132-9326-c4b4cdf5c218)
 
-Varsayılan ayarları kullanabilir veya her modül için özelleştirebilirsiniz. Botun ayar dosyası yok, sadece token girip çalıştırmanız yeterlidir.
+Botun ayar dosyası yok herşey setuplı ve modülerdir. Sadece token girip çalıştırmanız yeterlidir.
+
+<h1>Guard Botumuz 3 Adettir Her Module Hem Limit Hem Limit Aşıldıktan Sonra Ne Yapılacagı Size Menüler İle Sorulmaktadir Tamamen Modüler Bir Alt Yapiya Sahiptir.</h1>
+
