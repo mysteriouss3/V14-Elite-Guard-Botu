@@ -48,6 +48,9 @@ Bu Discord Guard Botu, eşi benzeri olmayan gecikmesiz ve hatasız koruma sağla
   - Kullanıcı veya role izin verilmiş modüller ekleyin. Limitler 1 saat boyunca geçerlidir.
   - Rol eklemek isterseniz "Role Ekle" düğmesine tıklayarak bir rol seçebilirsiniz.
 
+
+  ![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/d7b454a2-6d7e-44b9-a189-f1487704b23d)
+
   ![Role Ekle](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/7ded2a07-d9a0-47ab-b03d-3e4cfceca12e)
 </details>
 
