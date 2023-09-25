@@ -56,7 +56,6 @@ Eşi Benzeri Olmayan 1 Saniyede Ceza Veren Hiç Bir Gecikmesi Olmayan Kodlaması
 </details>
 
 ##Toplam 3 Adet Guard Botumuz Vardir.
-
 1- Ceza Botu
 2- Log Ve Komutlara Cevap Veren Bot
 3- Backup Ve Rol Dagıtma Botudur.
