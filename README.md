@@ -66,6 +66,8 @@ Bu, eşi benzeri olmayan, gecikmesiz ve hatasız koruma sağlayan bir Discord Gu
   ![image](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/c20c92ae-8add-46bb-9e61-c9200b606eed)
 </details>
 
+
+
 Toplam 3 farklı Guard Botu:
 1. Ceza Botu
 2. Log ve Komutlara Cevap Veren Bot
