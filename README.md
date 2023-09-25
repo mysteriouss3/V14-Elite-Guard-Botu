@@ -84,6 +84,6 @@ Botun ayar dosyası yok, her şey kurulumlu ve modülerdir. Sadece tokeninizi gi
 
 ## Satın Almak İçin
 
-#mysterious3 kullanıcısına ulaşın.
+- mysterious3 kullanıcısına ulaşın.
 
 <h1>Guard Botumuz 3 Adettir Her Module Hem Limit Hem Limit Aşıldıktan Sonra Ne Yapılacağı Size Menüler İle Sorulmaktadır Tamamen Modüler Bir Altyapıya Sahiptir.</h1>
