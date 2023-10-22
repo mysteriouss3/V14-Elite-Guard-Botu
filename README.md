@@ -1,6 +1,6 @@
-# V14 Elite Guard Botu (Ultra Elite Guard Botu) - Limited Edition
+# V14 Elite Guard Botu (Elite Guard Botu) - Limited Edition
 
-Bu Discord Guard Botu, eşi benzeri olmayan gecikmesiz ve hatasız koruma sağlayan bir bot olarak tasarlanmıştır. Limited Edition olarak Satılacaktır (Sadece 5 Sunucuya) 
+Bu Discord Guard Botu, gecikmesiz ve hatasız koruma sağlayan bir bot olarak tasarlanmıştır.
 
 ![Bot Resmi](https://github.com/mysteriouss3/V14-Elite-Guard-Botu/assets/142053394/192426e6-ccc8-4fdf-bdde-2c5a894d65fb)
 
